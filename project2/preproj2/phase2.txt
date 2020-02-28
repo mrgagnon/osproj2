@@ -1,0 +1,59 @@
+Script started on Thu 12 Sep 2019 08:59:23 PM EDT
+]0;maylee@maylee-VirtualBox: ~/Desktop/preproj2[01;32mmaylee@maylee-VirtualBox[00m:[01;34m~/Desktop/preproj2[00m$ ./test.o
+	 Null test: 14
+	 Parent only: 0
+State: 0
+PID: 21176
+Parent PID: 21166
+Youngest child PID: -1
+Younger sibling PID: 0
+Older sibling PID: -1
+UID of process owner: 1000
+Start time (nanoseconds): 1982649782000002237
+CPU time user (microseconds): 1189079936
+CPU time system (microseconds): 1189095936
+User time children (microseconds): 0
+System time children (micoseconds): 0
+	 Child2: 0
+State: 0
+PID: 21178
+Parent PID: 21176
+Youngest child PID: -1
+Younger sibling PID: 0
+Older sibling PID: 21177
+UID of process owner: 1000
+Start time (nanoseconds): 1983184489000002237
+CPU time user (microseconds): 3921111936
+CPU time system (microseconds): 3921127936
+User time children (microseconds): 0
+System time children (micoseconds): 0
+	 Child1: 0
+State: 0
+PID: 21177
+Parent PID: 21176
+Youngest child PID: -1
+Younger sibling PID: 0
+Older sibling PID: -1
+UID of process owner: 1000
+Start time (nanoseconds): 1983162421000002237
+CPU time user (microseconds): 1219799936
+CPU time system (microseconds): 1219815936
+User time children (microseconds): 0
+System time children (micoseconds): 0
+	 Parent: 0
+State: 0
+PID: 21176
+Parent PID: 21166
+Youngest child PID: -1
+Younger sibling PID: 0
+Older sibling PID: -1
+UID of process owner: 1000
+Start time (nanoseconds): 1982649782000002237
+CPU time user (microseconds): 1189079936
+CPU time system (microseconds): 1189095936
+User time children (microseconds): 0
+System time children (micoseconds): 0
+]0;maylee@maylee-VirtualBox: ~/Desktop/preproj2[01;32mmaylee@maylee-VirtualBox[00m:[01;34m~/Desktop/preproj2[00m$ exit
+exit
+
+Script done on Thu 12 Sep 2019 08:59:34 PM EDT
